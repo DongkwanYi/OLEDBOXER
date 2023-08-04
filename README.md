@@ -6,6 +6,8 @@ Based on EdgeTX v2.8.4, code for OLED is developed.
 
 "lcd_driver_spi.cpp" at main, copy&paste to your gitpod IDE, compile it.
 
+(EdgeTX/edgetx/blob/v2.8.4/radio/src/targets/taranis/lcd_driver_spi.cpp)
+
 Wiring and hardware photos are attached.
 
 This code may apply X7 family TX, like BOXER, ZORRO, TX12 and POCKET(maybe).
