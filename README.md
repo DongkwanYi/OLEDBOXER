@@ -30,4 +30,4 @@ Thanks!!!
 
 Changes on "lcd_driver_spi.cpp" : 
 
-SPI mode(mode 3 -> mode 0), SPI clock(Fpclk/8) and a whole OLED initialize code are modified.
+SPI mode(mode 3 -> mode 0), SPI clock(fpclk/8) and a whole OLED initialize code are modified.
