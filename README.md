@@ -16,7 +16,7 @@ Happy flying!
 
 /******************************************************************
 
-The code for OLED is developed by a senior engineer,
+The code for OLED is developed by principal engineer,
 
 Brain(Y.S.Cho)
 
