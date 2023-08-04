@@ -24,6 +24,6 @@ Thanks!!!
 
 /******************************************************************
 
-Changes on "lcd_driver_spi.cpp"
+Changes on "lcd_driver_spi.cpp" : 
 
 a whole OLED initialize code, SPI clocks are modified.
