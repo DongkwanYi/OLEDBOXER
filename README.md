@@ -24,7 +24,7 @@ The code for OLED is developed by Guru engineer,
 
 Brain(Y.S.Cho)
 
-Thanks!!!
+Thanks you!!!
 
 /******************************************************************
 
