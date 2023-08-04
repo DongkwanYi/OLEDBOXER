@@ -1,12 +1,16 @@
 Hi,
 
-This repo is for 2.42" OLED mod for RM BOXER.
+This repository is for 2.42" OLED mod for RM BOXER.
 
 Based on EdgeTX v2.8.4, code for OLED is developed.
 
 "lcd_driver_spi.cpp" on main, copy&paste to your gitpod IDE, compile it.
 
-( EdgeTX/edgetx/blob/v2.8.4/radio/src/targets/taranis/lcd_driver_spi.cpp )
+* file location : EdgeTX/edgetx/blob/v2.8.4/radio/src/targets/taranis/lcd_driver_spi.cpp
+
+* Gitpod for compile : https://github.com/EdgeTX/edgetx/wiki/Building-radio-firmware-in-a-webbrowser-with-Gitpod
+
+Or, download "OLEDBOXER284.bin", and flash it!
 
 Wiring and hardware photos are attached.
 
@@ -26,4 +30,4 @@ Thanks!!!
 
 Changes on "lcd_driver_spi.cpp" : 
 
-SPI mode(mode 3 -> mode 0), SPI clock and a whole OLED initialize code are modified.
+SPI mode(mode 3 -> mode 0), SPI clock(Fpclk/8) and a whole OLED initialize code are modified.
