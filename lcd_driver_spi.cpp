@@ -75,8 +75,8 @@ void lcdHardwareInit()
   //LCD_SPI->CR1 = SPI_CR1_SSM | SPI_CR1_SSI | SPI_CR1_CPOL | SPI_CR1_CPHA;
   LCD_SPI->CR1 = SPI_CR1_SSM | SPI_CR1_SSI  ;     // SPI mode 0 for OLED BOXER
   //LCD_SPI->CR1 |= SPI_CR1_BR_0 ;                // lower Clock BR[2:0]-001 fpclk/4 OLED BOXER --> occuring frame shift
-  LCD_SPI->CR1 |= SPI_CR1_BR_1 ;                  // lower Clock BR[2:0]-010 fpclk/8 BOXER_OLED --> work, best choice
-  //LCD_SPI->CR1 |= SPI_CR1_BR_1 | SPI_CR1_BR_0 ; // lower Clock BR[2:0]-011 fpclk/16 BOXER_OLED --> work
+  LCD_SPI->CR1 |= SPI_CR1_BR_1 ;                  // lower Clock BR[2:0]-010 fpclk/8 OLED BOXER --> work, best choice
+  //LCD_SPI->CR1 |= SPI_CR1_BR_1 | SPI_CR1_BR_0 ; // lower Clock BR[2:0]-011 fpclk/16 OLED BOXER --> work
 
   LCD_SPI->CR2 = 0;
   LCD_SPI->CR1 |= SPI_CR1_MSTR;	// Make sure in case SSM/SSI needed to be set first
@@ -200,11 +200,11 @@ void lcdStart()
 	//     0xA6 => Normal Display
 	//     0xA7 => Inverse Display On
 	
-	lcdWriteCommand(0x91);
-	lcdWriteCommand(0x3F);
-	lcdWriteCommand(0x3F);
-	lcdWriteCommand(0x3F);
-	lcdWriteCommand(0x3F);
+	lcdWriteCommand(0x91);  //manufacturer provided
+	lcdWriteCommand(0x3F);  //manufacturer provided
+	lcdWriteCommand(0x3F);  //manufacturer provided
+	lcdWriteCommand(0x3F);  //manufacturer provided
+	lcdWriteCommand(0x3F);  //manufacturer provided
 
 
 /*
