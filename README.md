@@ -10,7 +10,7 @@ Based on EdgeTX v2.8.4, code for OLED is developed.
 
 * Gitpod for compile : https://github.com/EdgeTX/edgetx/wiki/Building-radio-firmware-in-a-webbrowser-with-Gitpod
 
-Or, download "OLEDBOXER284.bin", and flash it!
+* Or, download "OLEDBOXER284.bin", and flash it!
 
 Wiring and hardware photos are attached.
 
