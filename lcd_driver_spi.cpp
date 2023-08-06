@@ -127,7 +127,7 @@ void lcdStart()
 	// *****************************************
 	// 2.42" OLED 128x64 display               *
 	// SSD1309 driver IC                       *
-        // developed by Brain(Y.S.Cho)             *
+	// developed by Brain(Y.S.Cho)             *
 	// *****************************************
 	lcdWriteCommand(0xAE);	// set display off
 	lcdWriteCommand(0x00);	// set lower column start address
