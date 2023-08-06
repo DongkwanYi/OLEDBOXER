@@ -1,6 +1,6 @@
 Hi,
 
-This repository is for 2.42" OLED mod for RM BOXER.
+This repository is for 2.42" OLED mod of Radiomaster BOXER transmitter.
 
 Based on EdgeTX v2.8.4, code for OLED is developed.
 
