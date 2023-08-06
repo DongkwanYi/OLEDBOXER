@@ -1,4 +1,4 @@
- /*
+/*
  * Copyright (C) EdgeTX
  *
  * Based on code named
