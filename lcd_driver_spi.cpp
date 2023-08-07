@@ -136,7 +136,7 @@ void lcdStart()
 	lcdWriteCommand(0x40|0x00);	// set display start line
 	
 	lcdWriteCommand(0x81);	// set contrast control --> Set SEG Output Current
-	//write_CMD(0x32);
+	//lcdWriteCommand(0x32);
 	lcdWriteCommand(0x7F);
 	
 #if defined(LCD_VERTICAL_INVERT)
@@ -200,11 +200,11 @@ void lcdStart()
 	//     0xA6 => Normal Display
 	//     0xA7 => Inverse Display On
 	
-	lcdWriteCommand(0x91);  //manufacturer provided
-	lcdWriteCommand(0x3F);  //manufacturer provided
-	lcdWriteCommand(0x3F);  //manufacturer provided
-	lcdWriteCommand(0x3F);  //manufacturer provided
-	lcdWriteCommand(0x3F);  //manufacturer provided
+	lcdWriteCommand(0x91);	//manufacturer provided
+	lcdWriteCommand(0x3F);	//manufacturer provided
+	lcdWriteCommand(0x3F);	//manufacturer provided
+	lcdWriteCommand(0x3F);	//manufacturer provided
+	lcdWriteCommand(0x3F);	//manufacturer provided
 
 
 /*
