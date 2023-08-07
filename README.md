@@ -16,7 +16,7 @@ Wiring and hardware photos are attached. OLED is 2.42" 128*64 SPI interface. you
 
 This code may apply X7 family TX, like BOXER, ZORRO, TX12 and POCKET(maybe).
 
-Happy flying!
+Enjoy flying!
 
 /******************************************************************
 
