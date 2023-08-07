@@ -148,7 +148,7 @@ void lcdStart()
 	//     0xC0 => Scan from COM0 to 63
 	//     0xC8 => Scan from COM63 to 0
 
-#else //	#if defined(LCD_HORIZONTAL_INVERT)
+#else	//	#if defined(LCD_HORIZONTAL_INVERT)
 	lcdWriteCommand(0xA0);	// set segment remap
 	//     0xA0 => Column Address 0 Mapped to SEG0
 	//     0xA1 => Column Address 0 Mapped to SEG127
