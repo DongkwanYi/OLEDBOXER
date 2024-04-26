@@ -11,3 +11,9 @@ Version history
 
 2024.02.13  OLED firmwares for EdgeTX V2.9.4 are uploaded.
             OLEDBOXER294CR.bin has different splash screen(not shown at start "EdgetTX") for my friend.
+
+2024.04.26  OLED firmwares for EdgeTX V2.10RC3 of BOXER, POCKET.
+            OLEDBOXER210rc3.bin : EdgeTX V2.10RC3 for BOXER.
+            OLEDBOXER210rc3.bin : EdgeTX V2.10RC3 for BOXER, Inverted screen for request.
+            OLEDPOCKET210rc3.bin : EdgeTX V2.10RC3 for POCKET.
+            OLEDPOCKET210rc3horINV : EdgeTX V2.10RC3 for POCKET, Upside-down screen for request.
