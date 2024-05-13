@@ -8,7 +8,8 @@ After EdgeTX V2.10.0, The code for SSD1309 driver of OLED is included on the sou
 
 After hardware mod, flash the firmware in firmwares folder.
 
-ie) download "OLEDBOXER2100.bin" and flash it!(don't forget bootloader flashing!)
+ie) If you are Radiomaster BOXER user, download "OLEDBOXER2100.bin" and flash it!(don't forget bootloader flashing!)
+    Check stick mode after flashing!
 
 Wiring and hardware photos are attached. OLED is 2.42" 128*64 SPI interface, SSD1309 or compatible driver. you can search "2.42 OLED", like TZT OLED or diymore product.
 
