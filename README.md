@@ -1,6 +1,40 @@
 Hi,
 
-This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO, POCKET transmitter(BW screen radios).
+This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO, POCKET, MT12(Surface TX) transmitter(BW screen radios).
+
+Based on EdgeTX v2.8.4, code for OLED is developed. After EdgeTX V2.10.0, The code for SSD1309 driver of OLED is included on source.
+
+After hardware mod, flash the firmware in firmwares folder.
+
+ie) download "OLEDBOXER2100.bin" and flash it!(don't forget bootloader flashing!)
+
+Wiring and hardware photos are attached. OLED is 2.42" 128*64 SPI interface, SSD1309 or compatible driver. you can search "2.42 OLED", like TZT OLED or diymore product.
+
+I recommend TZT's 2.42" OLED. It is cheap and same quality with diymore's. Also has more thin PCB, it is good for mod.
+
+Enjoy flying!
+
+/******************************************************************
+
+The code for OLED is developed by Guru engineer,
+
+Brain(Y.S.Cho)
+
+Thank you!!!
+
+Changes on "lcd_driver_spi.cpp" : 
+
+SPI mode(mode 3 -> mode 0), SPI clock(fpclk/8) and a whole OLED initialize code are modified.
+
+/******************************************************************
+
+
+
+-------------------------------------------------------------------
+(Old Readme)
+Hi,
+
+This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO, POCKET, MT12(Surface TX) transmitter(BW screen radios).
 
 Based on EdgeTX v2.8.4, code for OLED is developed.
 
@@ -17,17 +51,3 @@ This code can apply 128*64 BW X7 family TX, like BOXER, ZORRO, TX12 and POCKET.
 Wiring and hardware photos are attached. OLED is 2.42" 128*64 SPI interface. you can search "2.42 OLED", like TZT OLED or diymore product.
 
 Enjoy flying!
-
-/******************************************************************
-
-The code for OLED is developed by Guru engineer,
-
-Brain(Y.S.Cho)
-
-Thank you!!!
-
-/******************************************************************
-
-Changes on "lcd_driver_spi.cpp" : 
-
-SPI mode(mode 3 -> mode 0), SPI clock(fpclk/8) and a whole OLED initialize code are modified.
