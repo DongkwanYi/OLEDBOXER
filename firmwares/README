@@ -30,5 +30,5 @@ Version history
            OLEDMT122100.bin : EdgeTX V2.10.0 for Radiomaster MT12(Surface TX), test version
            OLEDMT122100sm1.bin : EdgeTX V2.10.0 for Radiomaster MT12(Surface TX), test version
 
-           After EdgeTX V2.10.0, include the driver SSD1309 for OLED. I use this code for mod.
+           After EdgeTX V2.10.0, included the driver SSD1309 for OLED. I use this code for mod.
            Check your stick mode! 
