@@ -18,3 +18,15 @@ Version history
             OLEDPOCKET210rc3.bin : EdgeTX V2.10.0RC3 for POCKET.
             OLEDPOCKET210rc3horINV : EdgeTX V2.10.0RC3 for POCKET, Upside-down screen for request.
             OLEDPOCKET210rc3mirrored : EdgeTX V2.10.0RC3 for POCKET, mirrored screen for request.
+
+2024.05.13 OLED firmwares for EdgeTX V2.10.0 are uploaded.
+           OLEDBOXER2100.bin : EdgeTX V2.10.0 for Radiomaster BOXER
+           OLEDTX122100.bin : EdgeTX V2.10.0 for Radiomaster TX12
+           OLEDTX12MK22100.bin : EdgeTX V2.10.0 for Radiomaster TX12MK2
+           OLEDZORRO2100.bin : EdgeTX V2.10.0 for Radiomaster ZORRO
+           OLEDPOCKET2100.bin : EdgeTX V2.10.0 for Radiomaster POCKET
+           OLEDMT122100.bin : EdgeTX V2.10.0 for Radiomaster MT12(Surface TX), test version
+           OLEDMT122100sm1.bin : EdgeTX V2.10.0 for Radiomaster MT12(Surface TX), test version
+
+           After EdgeTX V2.10.0, include the driver SSD1309 for OLED. I use this code for mod.
+           Check your stick mode! 
