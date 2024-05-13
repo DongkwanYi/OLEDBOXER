@@ -20,6 +20,8 @@ Version history
             OLEDPOCKET210rc3mirrored : EdgeTX V2.10.0RC3 for POCKET, mirrored screen for request.
 
 2024.05.13 OLED firmwares for EdgeTX V2.10.0 are uploaded.
+           Auto dimming is enabled.
+
            OLEDBOXER2100.bin : EdgeTX V2.10.0 for Radiomaster BOXER
            OLEDTX122100.bin : EdgeTX V2.10.0 for Radiomaster TX12
            OLEDTX12MK22100.bin : EdgeTX V2.10.0 for Radiomaster TX12MK2
