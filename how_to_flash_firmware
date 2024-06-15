@@ -1,5 +1,5 @@
 1. Complete OLED hardware setup.
-2. connect original LCD.
+2. Disconnect OLED cable, connect original LCD.
 3. copy firmware to SD card, flash firmware : at this time, display shown on original LCD.
-4. turn off TX and remove orginal LCD.
+4. turn off TX and remove orginal LCD, and connect the OLED.
 5. turn on TX, flash bootloader.
