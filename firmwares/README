@@ -45,3 +45,15 @@ Version history
            OLEDMT122101.bin : EdgeTX V2.10.1 for Radiomaster MT12(Surface TX), test version
            
            Check your stick mode! and don't forget the bootloader flashing!
+
+2024.08.01 OLED firmwares for EdgeTX V2.10.2 are uploaded.
+
+           OLEDBOXER2102.bin : EdgeTX V2.10.2 for Radiomaster BOXER
+           OLEDTX122102.bin : EdgeTX V2.10.2 for Radiomaster TX12
+           OLEDTX12MK22102.bin : EdgeTX V2.10.2 for Radiomaster TX12MK2
+           OLEDZORRO2102.bin : EdgeTX V2.10.2 for Radiomaster ZORRO
+           OLEDPOCKET2102.bin : EdgeTX V2.10.2 for Radiomaster POCKET
+           OLEDMT122102.bin : EdgeTX V2.10.2 for Radiomaster MT12(Surface TX), test version #1
+           OLEDMT122102dm1.bin : EdgeTX V2.10.2 for Radiomaster MT12(Surface TX), test version #2
+           
+           Check your stick mode! and don't forget the bootloader flashing!
