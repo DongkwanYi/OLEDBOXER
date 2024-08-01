@@ -6,7 +6,7 @@ Based on EdgeTX v2.8.4, code for OLED is developed.
 
 After EdgeTX V2.10.RC, The code for SSD1309 driver of OLED is included on the source. So I built the mod firmwares using it.
 
-After hardware mod, flash the firmware in firmwares folder.
+After hardware mod, flash the firmware in firmwares folder. Please check OLEDBOXER/firmwares/README file!
 
 ie) If you are Radiomaster BOXER user, download "OLEDBOXER2100.bin" and flash it!(don't forget bootloader flashing!)
     Check stick mode after flashing!
