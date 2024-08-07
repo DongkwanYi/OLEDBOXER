@@ -4,7 +4,7 @@ This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO
 
 On August 3 2023, based on EdgeTX v2.8.4, code for OLED was developed.
 
-After EdgeTX V2.10.RC, The code for SSD1309 driver of OLED is included on the source. So I built the mod firmwares using it.
+After EdgeTX V2.10.RC, The code for SSD1309 driver of OLED is included on the source, but not activated. So I built the mod firmwares using it.
 
 After hardware mod, flash the firmware in firmwares folder. Please check OLEDBOXER/firmwares/README file!
 
