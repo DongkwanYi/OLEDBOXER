@@ -1,3 +1,8 @@
+helpful videos :
+https://youtu.be/VSOvrYYSIN4
+https://youtu.be/cFsVHiim-Eo
+https://youtu.be/LZEmpTxd5Lc
+
 Hi,
 
 This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO, POCKET, MT12(Surface TX) transmitter(BW screen radios).
