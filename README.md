@@ -1,3 +1,6 @@
+🎈🎈OLED EdgeTX V2.11.0 are uploaded!🎈🎈
+
+
 helpful videos :
 
 https://youtu.be/VSOvrYYSIN4
