@@ -1,4 +1,4 @@
-🎈🎈OLED EdgeTX V2.11.0 are uploaded!🎈🎈
+🎈🎈OLED EdgeTX V2.11.1 are uploaded!🎈🎈
 
 
 helpful videos :
