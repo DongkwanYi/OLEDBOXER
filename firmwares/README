@@ -138,5 +138,6 @@ Version history
            OLEDZORRO212.bin : EdgeTX V2.11.2 for Radiomaster ZORRO
            OLEDPOCKET2112.bin : EdgeTX V2.11.2 for Radiomaster POCKET
            OLEDMT122112.bin : EdgeTX V2.11.2 for Radiomaster MT12(Surface TX), test version. test version #2 was removed.
+           OLEDT12MAX2112.bin : EdgeTX V2.11.2 for Jumper T12MAX. By request, first release for T12MAX.
                       
            Check your stick mode! and don't forget the bootloader flashing!
