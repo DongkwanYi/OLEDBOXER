@@ -12,7 +12,9 @@ https://youtu.be/LZEmpTxd5Lc
 
 Hi,
 
-This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO, POCKET, MT12(Surface TX) transmitter(BW screen radios).
+This repository is for 2.42" OLED mod of Radiomaster BOXER, TX12, TX12MK2, ZORRO, POCKET, MT12(Surface TX) And
+
+Jumper T12MAX transmitter(BW screen radios).
 
 On August 3 2023, based on EdgeTX v2.8.4, code for OLED was developed.
 
