@@ -1,8 +1,8 @@
-![MuaKissGIF](https://github.com/user-attachments/assets/0028f6bf-6811-47a8-9848-f291ee0c1f7d)
+<img width="360" height="360" alt="FoxLoveGIF" src="https://github.com/user-attachments/assets/7c45c3bb-5602-48d8-957d-40ff813b7b1d" />
 
-😖😖OLED EdgeTX V2.11.3 are uploaded!😖😖
+😖😖OLED EdgeTX V2.12.2 are uploaded!😖😖
 
-😖😖OLED EdgeTX V2.11.3 are uploaded!😖😖
+😖😖OLED EdgeTX V2.12.2 are uploaded!😖😖
 
 
 helpful videos :
