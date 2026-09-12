@@ -1,8 +1,8 @@
-<img width="360" height="360" alt="FoxLoveGIF" src="https://github.com/user-attachments/assets/7c45c3bb-5602-48d8-957d-40ff813b7b1d" />
+<img width="336" height="336" alt="happydespicablemeGIF" src="https://github.com/user-attachments/assets/3031301c-c013-4824-891e-d550aed6fa60" />
 
-😖😖OLED EdgeTX V2.12.2 are uploaded!😖😖
+😖😖OLED EdgeTX V2.12.4 are uploaded!😖😖
 
-😖😖OLED EdgeTX V2.12.2 are uploaded!😖😖
+😖😖OLED EdgeTX V2.12.4 are uploaded!😖😖
 
 
 helpful videos :
