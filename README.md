@@ -1,8 +1,8 @@
-<img width="336" height="336" alt="happydespicablemeGIF" src="https://github.com/user-attachments/assets/3031301c-c013-4824-891e-d550aed6fa60" />
+<img width="480" height="480" alt="KissesLoveGIF" src="https://github.com/user-attachments/assets/04f2dfa9-7284-412f-8a3d-f379a144f403" />
 
-😖😖OLED EdgeTX V2.12.4 are uploaded!😖😖
+😖😖OLED EdgeTX V2.12.5 are uploaded!😖😖
 
-😖😖OLED EdgeTX V2.12.4 are uploaded!😖😖
+😖😖OLED EdgeTX V2.12.5 are uploaded!😖😖
 
 
 helpful videos :
